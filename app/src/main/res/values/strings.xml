@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">W3.2 Ejercicio</string>
+    <string name="tiet_hint_nombre_completo">Nombre completo</string>
+    <string name="tiet_fecha_nacimiento_hint">Fecha Nacimiento</string>
+    <string name="tiet_hint_telefono">Telefono</string>
+    <string name="tiet_hint_email">Email</string>
+    <string name="tiet_hint_descripcion">Descripcion Contacto</string>
+    <string name="btn_siguiente_text">Siguiente</string>
+    <string name="tv_confirmar_datos_text">Confirmar Datos</string>
+    <string name="tv_nombre_text">Nombre:</string>
+    <string name="tv_fecha_nacimiento_text">Fecha Nacimiento:</string>
+    <string name="empty_hint" />
+    <string name="tv_telefono_text">Telefono:</string>
+    <string name="tv_email_text">Email:</string>
+    <string name="tv_descripcion_text">Descripcion:</string>
+    <string name="btn_editar_text">Editar Datos</string>
+    <string name="parm_nombre">nombre</string>
+    <string name="parm_dob_day">dob_day</string>
+    <string name="parm_dob_month">dob_month</string>
+    <string name="parm_dob_year">dob_year</string>
+    <string name="parm_telefono">telefono</string>
+    <string name="parm_email">email</string>
+    <string name="parm_descripcion">descripcion</string>
+    <string name="parm_precargar">parm_precargar_datos</string>
+</resources>

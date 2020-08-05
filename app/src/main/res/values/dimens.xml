@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="main_activity_padding">10dp</dimen>
+    <dimen name="tv_fecha_nacimiento_padding">4dp</dimen>
+    <dimen name="tv_confirmar_datos_size">24sp</dimen>
+    <dimen name="btn_editar_padding">48dp</dimen>
+</resources>
